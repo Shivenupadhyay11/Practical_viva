@@ -1,0 +1,25 @@
+{
+  "name": "practical_viva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "product.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivenupadhyay11/Practical_viva.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivenupadhyay11/Practical_viva/issues"
+  },
+  "homepage": "https://github.com/Shivenupadhyay11/Practical_viva#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.6.1"
+  }
+}
